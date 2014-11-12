@@ -1,0 +1,25 @@
+/* External Stylesheet for 11/5 Homework on CSS */
+  body {
+  	background-image: url(http://i.imgur.com/z4WUADn.jpg);
+  	background-position: top right;
+  	background-repeat: no-repeat;
+  	background-size: 75px;
+  	font-family: arial, verdana, sans-serif;
+  	line-height: 40px;
+  }
+	h1 {
+		color: #F06;
+		font-size: 20px;
+		text-transform: uppercase;
+		text-decoration: underline;
+		font-weight: normal;
+	}
+	h2 {
+		color: #06F;
+		font-size: 18px;
+		font-weight: normal;
+	}
+	li {
+		font-size: 12px;
+		background-color: #EEE;
+	}
