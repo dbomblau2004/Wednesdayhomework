@@ -1,0 +1,26 @@
+div {
+    height:50px;
+    width:50px;
+    float:left;
+    border: 1px solid black;
+}
+
+.blue{
+    background:#00FFFF;
+}
+
+.pink{
+    background:#FF00FF;
+}
+
+.yellow{
+    background:#FFFF00;
+}
+
+.black{
+    background:#000000;
+}
+
+.clear{
+    clear:both;    
+}
