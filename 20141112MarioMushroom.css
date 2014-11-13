@@ -1,0 +1,19 @@
+div {
+    height:20px;
+    width:20px;
+    float:left;
+    border: 1px solid white;
+    background: #DDDDDD;
+}
+
+.black{
+    background:#000000;
+}
+
+.green{
+    background:#008000;
+}
+
+.clear{
+    clear:both;    
+}
